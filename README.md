@@ -89,18 +89,5 @@ Gaming and augmented reality: Neural networks can be used to recognize and track
 
 Traffic monitoring: Neural networks can analyze color information from traffic surveillance cameras to detect and track vehicles, monitor traffic flow, and identify violations.
 
-## REFERENCES
-
-[1]. Wang, Y., Ma, Z., Li, G., & Yuan, Y. (2015). Color image classification using local color features and SVM. Signal Processing, 111, 49-59.
-
-[2]. "A CNN-Based Real-Time Facial Expression Recognition System on Raspberry Pi" by S. Kumari and V. Tyagi in the International Journal of Advanced Trends in Computer Science and Engineering, Volume 8 - Issue 3, May-June 2019.
-
-[3]. "Liu, T., Liu, Y., Wu, F., & Chen, J. (2018). An efficient color-based image retrieval system using color and texture features. Multimedia Tools and Applications, 77(6), 6947-6966.
-
-[4]. "Basso, L., Diaz, M., & Veloso, M. (2016). Learning color categories for object detection. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4057-4062).
-
-[5]. "Jin, X., Ma, Z., Huang, M., & Chen, S. (2017). Review on color image segmentation methods. Pattern Recognition, 63, 155-171.
-
-[6]. "Sun, H., Jin, L., Liu, Z., & Lin, Y. (2015). Color image enhancement based on local adaptive color correction. Signal Processing, 107, 430-441.
-
+To know more about the project details, ping me personally.
 
