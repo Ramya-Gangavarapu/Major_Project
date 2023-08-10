@@ -2,6 +2,15 @@
 
 # Implementation of Neural Networks for Color Classification and and Real Time Color Prediction for Image Processing
 
+# TEAM MEMBERS
+G. Ramya 
+
+G. Sanjana 
+
+B. Prabhakar 
+
+K. Sai Ram 
+
 ## OBJECTIVES
 
 Implementing a custom Convolutional Neural Network (CNN) from scratch in MATLAB for color classification.
@@ -93,3 +102,5 @@ Traffic monitoring: Neural networks can analyze color information from traffic s
 [5]. "Jin, X., Ma, Z., Huang, M., & Chen, S. (2017). Review on color image segmentation methods. Pattern Recognition, 63, 155-171.
 
 [6]. "Sun, H., Jin, L., Liu, Z., & Lin, Y. (2015). Color image enhancement based on local adaptive color correction. Signal Processing, 107, 430-441.
+
+
