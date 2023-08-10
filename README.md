@@ -63,13 +63,21 @@ Neural networks can process images in real-time, enabling live color prediction 
 ## APPLICATIONS 
 
 Object recognition: Neural networks can be used to classify colors of objects in images or videos, enabling object recognition and tracking systems.
+
 Quality control: Neural networks can assist in color-based quality control processes, such as identifying defective or mismatched products based on color characteristics.
+
 Sorting and categorization: Neural networks can be utilized in color-based sorting systems, where objects or materials are classified and sorted based on their color attributes.
+
 Image processing: Neural networks can enhance color-based image processing tasks, such as color correction, image segmentation, and image retrieval.
+
 Industrial automation: Neural networks can be integrated into industrial automation systems to classify and analyze colors in real-time, facilitating automated decision-making processes.
+
 Robotics: Neural networks can support color perception in robotic systems, enabling robots to interact with and respond to color-coded objects or environments.
+
 Biomedical imaging: Neural networks can aid in color-based analysis and interpretation of medical images, assisting in areas such as tissue segmentation and disease diagnosis.
+
 Gaming and augmented reality: Neural networks can be used to recognize and track colors in gaming and augmented reality applications, enabling interactive and immersive experiences.
+
 Traffic monitoring: Neural networks can analyze color information from traffic surveillance cameras to detect and track vehicles, monitor traffic flow, and identify violations.
 
 ## REFERENCES
